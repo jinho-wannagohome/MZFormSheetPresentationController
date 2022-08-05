@@ -26,7 +26,7 @@
 #import <UIKit/UIKit.h>
 #import "MZTransition.h"
 #import "MZFormSheetPresentationController.h"
-#import <MZAppearance/MZAppearance.h>
+#import "MZAppearance.h"
 #import "MZFormSheetPresentationViewControllerAnimatedTransitioning.h"
 #import "MZFormSheetPresentationViewControllerInteractiveTransitioning.h"
 #import "MZFormSheetPresentationContentSizing.h"
